@@ -1,0 +1,6 @@
+Este es mi primer archivo usando git
+
+
+### Modifiquemos esta línea y subamos
+
+## aquí agrega lo que quieras y haz push
